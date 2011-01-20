@@ -9,8 +9,8 @@
  */
 
 #pragma mark -
-#pragma mark == Interface for class methods==
-
+#pragma mark == Interface for class methods ==
+ 
 @interface UIStatusBarItem
 - (id)indicatorName;	
 @property(readonly, assign, nonatomic) NSString *indicatorName;
