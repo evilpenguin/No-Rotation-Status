@@ -1,0 +1,9 @@
+Package: us.nakedproductions.norotationstatus
+Name: No Rotation Status
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Removes the rotation icon from the status bar
+Maintainer: EvilPenguin|
+Author: EvilPenguin|
+Section: Tweaks
